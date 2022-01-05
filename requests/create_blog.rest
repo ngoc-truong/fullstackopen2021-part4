@@ -2,8 +2,8 @@ POST http://localhost:3003/api/blogs
 content-type: application/json
 
 {
-    "title": "Du bist gut genug!",
+    "title": "Mein neuer Blogeintrag",
     "author": "Ngoc Schung",
     "url": "www.google.de",
-    "likes": 44
+    "likes": 14
 }

@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/61d323034d3fbc990ba774b0
+content-type: application/json
+
+{
+    "title": "Grün und weiß, das ist unser Team",
+    "author": "Mule Bambule",
+    "url": "www.fanszene-bremen.de",
+    "likes": 1899
+}
